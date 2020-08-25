@@ -1,0 +1,12 @@
+div {
+    display: flex;
+}
+
+nav {
+    position: fixed;
+}
+
+main {
+    position: relative;
+    margin-left: 250px;
+}
